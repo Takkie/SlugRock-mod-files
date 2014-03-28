@@ -23,10 +23,14 @@ You need to install the ioq3 engine before you can play this mod.
 The ioq3 engine is available from the ioquake3 website (http://ioquake3.org/)
 This engine contains many bugfixes and additional features.
 
-You can start the ioq3SlugRock mod from the mods menu or you can use the .bat file.
-Or create your own .bat file with these settings:
-..
-...
+Installation:
+Extract the .zip file in your ioquake3 folder.
+
+You can start the ioq3SlugRock mod from the mods menu
+ or you can use the .bat file in the SlugRock folder.
+ or create your own .bat file in the ioquake3 folder with these settings:
+ioquake3.x86.exe +set fs_game SlugRock +set sv_pure 0
+
 
 ========================================================================================================================
 
