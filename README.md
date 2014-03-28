@@ -8,6 +8,8 @@ file: ioq3SlugRock.pk3
 author: UglyFoot / Takkie           
 email address: jas.mail.mob@gmail.com 
 URL: http://slugsandrockets.tumblr.com
+GitHub: http://github.com/Takkie/slugrock
+        http://github.com/Takkie/SlugRock-code
 
 Team SlugRock:	UglyFoot (coding, ideas, testing)
 		Takkie	 (ideas, testing)	
@@ -84,7 +86,7 @@ After releasing SlugRock_4.21 i received some feedback on the quake3world forum.
 I decided to recreate the mod from scratch because i lost the source-code.
 Fortunally UglyFoot came to assist me.
 By public demand we decided to use the ioquake3 source-code as a base.
-We forked the  ioq3 code on GitHub (https://github.com/Takkie/SlugRock).
+We forked the  ioq3 code on GitHub (https://github.com/Takkie/SlugRock-code).
 
 ========================================================================================================================
 
