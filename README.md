@@ -27,9 +27,9 @@ Installation:
 Extract the .zip file in your ioquake3 folder.
 
 You can start the ioq3SlugRock mod from the mods menu
- or you can use the .bat file in the SlugRock folder.
+ or you can use the .bat file in the SlugRock-master folder.
  or create your own .bat file in the ioquake3 folder with these settings:
-ioquake3.x86.exe +set fs_game SlugRock +set sv_pure 0
+ioquake3.x86.exe +set fs_game SlugRock-master +set sv_pure 0
 
 
 ========================================================================================================================
