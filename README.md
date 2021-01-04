@@ -7,7 +7,7 @@ title: SlugRock
 file: ioq3SlugRock.pk3
 author: UglyFoot / Takkie           
 email address: jas.mail.mob@gmail.com 
-URL: http://slugsandrockets.tumblr.com
+URL: http://slugrock.tumblr.com
 GitHub: http://github.com/Takkie/slugrock
         http://github.com/Takkie/SlugRock-code
 
